@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\ishit\.gemini\antigravity\scratch\intelligence_platform\backend\src\report_generator.py", line 8, in <module>
+    from src.kpi_engine import KPIEngine
+  File "C:\Users\ishit\.gemini\antigravity\scratch\intelligence_platform\backend\src\kpi_engine.py", line 13
+    query = \"\"\"
+             ^
+SyntaxError: unexpected character after line continuation character

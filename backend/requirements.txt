@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+duckdb
+scikit-learn
+reportlab
+pydantic
+pytest

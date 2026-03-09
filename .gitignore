@@ -1,0 +1,26 @@
+# Environments
+venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node.js
+node_modules/
+dist/
+build/
+.npm
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Data & Logs (Optional: uncomment to ignore generated data)
+# backend/data/
+# backend/reports/
+# backend/*.log
