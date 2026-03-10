@@ -101,3 +101,6 @@ npm install --save-dev vite @vitejs/plugin-react
 npm run dev
 ```
 *The Dashboard will be running at http://127.0.0.1:5173*
+## Project Demo
+
+![Project Screenshot](Screenshot 2026-03-09 234214.png)
